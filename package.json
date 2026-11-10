@@ -4,9 +4,14 @@
   "license": "UNLICENSED",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "next": "~16.4.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
   "devDependencies": {
     "@nx/js": "24.0.5",
+    "@nx/next": "24.0.5",
     "@nx/workspace": "24.0.5",
     "nx": "24.0.5",
     "typescript": "~6.0.3"
