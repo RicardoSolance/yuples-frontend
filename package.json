@@ -1,7 +1,7 @@
 {
-  "name": "@yuples-frontend/source",
+  "name": "@yuples/source",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "scripts": {},
   "private": true,
   "dependencies": {},
